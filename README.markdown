@@ -19,7 +19,7 @@ This is an unfortunate logistical necessity. All other keys are in colemak posit
 
 # Installation
     cd
-    git clone git://github.com/tuxjay/colemak .colemak
+    git clone git://github.com/chadkouse/colemak .colemak
 
 Add to .vimrc:
     source ~/.colemak/vimrc
